@@ -14,4 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virajsonaje&show_icons=true&locale=en&layout=compact" alt="virajsonaje" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virajsonaje&show_icons=true&locale=en" alt="virajsonaje" /></p>
- - ⚡ Fun fact  ![](https://komarev.com/ghpvc/?username=virajsonaje&style=for-the-badge)
